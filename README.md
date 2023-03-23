@@ -15,7 +15,7 @@ Brightness key (Fn + Pause & Fn + Scr Lk)</br>
 USB Type A 2.0/3.0</br>
 USB Type C 3.0</br>
 Wifi & Bluetooth intel </br>
-SYNA3602 Trackpad (need edit info.plist of VoodooI2CHID.kext)</br>
+SYNA3602 Trackpad </br>
 Internal Camera</br>
 Batterey</br>
 </br>
