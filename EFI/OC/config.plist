@@ -1201,23 +1201,23 @@
 			<key>BoardManufacturer</key>
 			<string></string>
 			<key>BoardProduct</key>
-			<string>Mac-0CFF9C7C2B63DF8D</string>
+			<string></string>
 			<key>BoardSerialNumber</key>
-			<string>FVF0081084N00001H</string>
+			<string></string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
-			<string>MacBookAir8,2</string>
+			<string></string>
 			<key>ChassisAssetTag</key>
 			<string>Asset Tag#</string>
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>FVFC9062MNHP</string>
+			<string></string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
-			<string>Mac-0CFF9C7C2B63DF8D</string>
+			<string></string>
 			<key>FirmwareFeatures</key>
 			<data>bvCv/wgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
